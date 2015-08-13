@@ -1,0 +1,5 @@
+name        = "ns_siege2k4-rc7"
+source_dir  = "source/"
+output_dir  = "output/"
+description = [=[]=]
+image       = "preview.jpg"
